@@ -5,7 +5,6 @@
 - 📫 How to reach me coconut_55 in discord :) ...
 
   
-  ![image](https://github.com/user-attachments/assets/334b9ebf-56f6-499e-9bbe-85e4941b12f3)
 
 <!---
 javedhmohamed/javedhmohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
