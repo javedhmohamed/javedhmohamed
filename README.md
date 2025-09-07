@@ -1,14 +1,13 @@
-- 👋 Hi, I’m @javedhmohamed
-- 👀 I’m interested in programming ...
-- 🌱 I’m currently learning c programming  ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me coconut_55 in discord :) ...
+![c8a8ffd4a5fa0a3fc71bca4deb3ed0f1](https://github.com/user-attachments/assets/2bd14fc9-d153-4b05-b801-0c0e072a8a07)
 
-  <p align="center">
+
+ <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=arduino,kubernetes,docker,c,aws,azure,py,react,blender,docker,tensorflow,figma,js,unity,java" />
   </a>
 </p>
+
+
 
 <!---
 javedhmohamed/javedhmohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
